@@ -37,3 +37,13 @@ Repositório criado para armazenar exercícios da disciplina de programação em
 - `integracao-est-dec.c`: Calcula média e determina o status do estudante (Aprovado, Recuperação ou Reprovado).
   ➜ Utiliza `switch-case` para o menu principal e `if/else` para a decisão condicional.
   ➜ Serve como introdução prática para o uso de **operadores ternários**, que serão explorados nas próximas aulas.
+---
+
+🧠 **Nível Mestre – Super Trunfo**
+
+`desafio-nv-mestre.c`: Comparação de cartas com múltiplos atributos e uso de operador ternário.  
+➜ Permite escolher **dois atributos diferentes** para comparar as cartas.  
+➜ Faz a **soma total** dos dois atributos e determina o vencedor.  
+➜ Utiliza `switch-case` para o menu e **operadores ternários** para decidir o vencedor.  
+➜ Inclui tratamento de empates e mensagens dinâmicas.  
+🧩 Atualizado via Termux + GitHub.
