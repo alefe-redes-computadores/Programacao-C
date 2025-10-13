@@ -10,6 +10,7 @@ Repositório criado para armazenar exercícios da disciplina de programação em
 - `if-aninhado-ver-idade.c`: verifica se a idade se qualifica para condições especiais.
 - `jogo-adivinhacao-switch.c`: jogo de adivinhação com switch e menu principal.
 - `jogo-jokenpo-nv-avent.c` : jogo de pedra, papel e tesoura usando switch-case
+- `desafio-nv-novato.c`: desafio nível novato – comparação de cartas
 ---
 
 🧩 Atualizado via Termux + GitHub
