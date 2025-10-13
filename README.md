@@ -11,6 +11,7 @@ Repositório criado para armazenar exercícios da disciplina de programação em
 - `jogo-adivinhacao-switch.c`: jogo de adivinhação com switch e menu principal.
 - `jogo-jokenpo-nv-avent.c` : jogo de pedra, papel e tesoura usando switch-case
 - `desafio-nv-novato.c`: desafio nível novato – comparação de cartas
+- `desafio-nv-aventureiro.c`: desafio nível aventureiro – comparador de cartas com menu interativo (switch-case e if/else)
 ---
 
 🧩 Atualizado via Termux + GitHub
