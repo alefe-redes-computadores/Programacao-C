@@ -12,6 +12,7 @@ Repositório criado para armazenar exercícios da disciplina de programação em
 - `jogo-jokenpo-nv-avent.c` : jogo de pedra, papel e tesoura usando switch-case
 - `desafio-nv-novato.c`: desafio nível novato – comparação de cartas
 - `desafio-nv-aventureiro.c`: desafio nível aventureiro – comparador de cartas com menu interativo (switch-case e if/else)
+- `integracao-est-dec.c`: Calcula média e status de estudante com switch-case e decisão condicional.
 ---
 ## 🧠 **Desafios da Disciplina – Programação em C**
 
