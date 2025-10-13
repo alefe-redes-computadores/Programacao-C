@@ -30,3 +30,10 @@ Repositório criado para armazenar exercícios da disciplina de programação em
   ➜ Utiliza um menu interativo com repetição até o usuário escolher sair.
 🧩 Atualizado via Termux + GitHub
 
+---
+
+### 🎓 Nível Mestre – Integração Estudante
+
+- `integracao-est-dec.c`: Calcula média e determina o status do estudante (Aprovado, Recuperação ou Reprovado).
+  ➜ Utiliza `switch-case` para o menu principal e `if/else` para a decisão condicional.
+  ➜ Serve como introdução prática para o uso de **operadores ternários**, que serão explorados nas próximas aulas.
