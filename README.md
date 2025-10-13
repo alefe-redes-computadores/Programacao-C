@@ -13,6 +13,19 @@ Repositório criado para armazenar exercícios da disciplina de programação em
 - `desafio-nv-novato.c`: desafio nível novato – comparação de cartas
 - `desafio-nv-aventureiro.c`: desafio nível aventureiro – comparador de cartas com menu interativo (switch-case e if/else)
 ---
+## 🧠 **Desafios da Disciplina – Programação em C**
 
+### 🟢 **Nível Novato**
+- `desafio-nv-novato.c`: Comparação de cartas simples sem uso de `struct`.  
+  ➜ Implementa a comparação entre duas cidades usando variáveis diretas, operadores relacionais e `if/else`.  
+  ➜ Objetivo: desenvolver a lógica de comparação inicial entre atributos.
+
+---
+
+### 🟡 **Nível Aventureiro**
+- `desafio-nv-aventureiro.c`: Comparador de cartas com menu interativo (usando `switch-case` e `if/else`).  
+  ➜ Permite escolher qual atributo comparar entre duas cidades (população, área, PIB, densidade etc).  
+  ➜ Inclui cálculos derivados (densidade populacional e PIB per capita).  
+  ➜ Utiliza um menu interativo com repetição até o usuário escolher sair.
 🧩 Atualizado via Termux + GitHub
 
