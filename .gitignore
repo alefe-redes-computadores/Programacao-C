@@ -1,0 +1,16 @@
+# binários gerados na compilação
+*.exe
+*.o
+*.out
+
+# arquivos e pastas temporárias do sistema
+.DS_Store
+Thumbs.db
+
+# pastas de IDEs ou editores
+.vscode/
+.idea/
+
+# backups e temporários
+*.bak
+*.tmp
